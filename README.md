@@ -3,4 +3,4 @@ Learn how to customize forms in Copyl. All future forms will be dynamic and you 
 
 We are using Angular Formly to make the interfaces dynamic. All standard interfaces can be adjusted to your organization.
 
-Please visit <a href='https://github.com/Copyl/copylFormlyConfiguration/wiki'>the wiki to get the whole documentation</a>.
+Please visit <a href='https://github.com/Copyl/copylFormlyConfiguration/wiki'>the wiki to get the whole documentation</a> or read more about <a href="http://angular-formly.com/">Angular Formly here</a>.
